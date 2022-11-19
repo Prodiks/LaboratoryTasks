@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61b5638-8d71-4dbb-8438-ca550bda6ff8" name="Changes" comment="Create labProject">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR1/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1293.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LR1/Ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LR1/Ex15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +37,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex15">
-    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR1.Ex11" />
+  <component name="RunManager" selected="Application.Ex1293">
+    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR1.Ex12" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR1.Ex12" />
+    <configuration name="Ex1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Ex1293" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR1.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1293" />
         <item itemvalue="Application.Ex15" />
         <item itemvalue="Application.Ex14" />
         <item itemvalue="Application.Ex13" />
         <item itemvalue="Application.Ex12" />
-        <item itemvalue="Application.Ex11" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668841873084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create labProject">
+      <created>1668850921293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668850921293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
