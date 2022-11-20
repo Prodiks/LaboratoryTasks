@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61b5638-8d71-4dbb-8438-ca550bda6ff8" name="Changes" comment="Create labProject">
+      <change afterPath="$PROJECT_DIR$/src/LR2/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR2/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR2/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR2/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR2/Ex5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Ex1293">
-    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR1.Ex12" />
+}</component>
+  <component name="RunManager" selected="Application.Ex5">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR2.Ex1" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR1.*" />
+          <option name="PATTERN" value="LR2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1293" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.Ex1293" />
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR2.Ex2" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="LR2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR1.Ex13" />
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR2.Ex3" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR1.*" />
+          <option name="PATTERN" value="LR2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR1.Ex14" />
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR2.Ex4" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR1.*" />
+          <option name="PATTERN" value="LR2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR1.Ex15" />
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR2.Ex5" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR1.*" />
+          <option name="PATTERN" value="LR2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex1293" />
-        <item itemvalue="Application.Ex15" />
-        <item itemvalue="Application.Ex14" />
-        <item itemvalue="Application.Ex13" />
-        <item itemvalue="Application.Ex12" />
+        <item itemvalue="Application.Ex5" />
+        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668855741837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create labProject">
+      <created>1668859914320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668859914320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
