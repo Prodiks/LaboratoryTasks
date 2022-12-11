@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61b5638-8d71-4dbb-8438-ca550bda6ff8" name="Changes" comment="Create labProject">
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Ex9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR3/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR4/Example2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,26 +45,18 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex3">
-    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Ex10" />
-      <module name="LaboratoryTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LR3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LR4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex8">
     <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Ex3" />
+      <option name="MAIN_CLASS_NAME" value="LR4.Ex3" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +64,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Ex4" />
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR4.Ex5" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR4.Ex6" />
+      <module name="LaboratoryTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LR4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR4.Ex7" />
+      <module name="LaboratoryTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LR4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,24 +104,11 @@
       </method>
     </configuration>
     <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Ex8" />
+      <option name="MAIN_CLASS_NAME" value="LR4.Ex8" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR3.Ex9" />
-      <module name="LaboratoryTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LR3.*" />
+          <option name="PATTERN" value="LR4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex3" />
-        <item itemvalue="Application.Ex4" />
-        <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Ex9" />
         <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+        <item itemvalue="Application.Ex6" />
+        <item itemvalue="Application.Ex5" />
+        <item itemvalue="Application.Ex3" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668927029272</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Create labProject">
+      <created>1668953588529</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668953588529</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
