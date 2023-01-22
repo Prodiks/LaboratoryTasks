@@ -2,16 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f61b5638-8d71-4dbb-8438-ca550bda6ff8" name="Changes" comment="Create labProject">
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR6/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1639.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1785.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1787.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1877.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1880.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex1910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex2066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Ex2100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +58,13 @@
       <recent name="LR4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex10">
-    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR6.Ex10" />
+  <component name="RunManager" selected="Application.Ex2001">
+    <configuration name="Ex1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Ex1000" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR6.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR6.Ex6" />
+    <configuration name="Ex1409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Ex1409" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR6.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR6.Ex7" />
+    <configuration name="Ex1877" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Ex1877" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR6.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR6.Ex8" />
+    <configuration name="Ex2001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Ex2001" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR6.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR6.Ex9" />
+    <configuration name="Ex2012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus.Ex2012" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR6.*" />
+          <option name="PATTERN" value="Timus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Ex9" />
-        <item itemvalue="Application.Ex8" />
-        <item itemvalue="Application.Ex7" />
-        <item itemvalue="Application.Ex6" />
+        <item itemvalue="Application.Ex2001" />
+        <item itemvalue="Application.Ex1877" />
+        <item itemvalue="Application.Ex2012" />
+        <item itemvalue="Application.Ex1409" />
+        <item itemvalue="Application.Ex1000" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671280755352</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Create labProject">
+      <created>1671352925208</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671352925208</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create labProject">
+      <created>1673881422154</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673881422154</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
