@@ -5,132 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f61b5638-8d71-4dbb-8438-ca550bda6ff8" name="Changes" comment="Create labProject">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/excel/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/excel/WriteExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/excel/example4.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/html/ReadNews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/html/ReadTAGS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/html/parse.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/json/AddBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/json/DeleteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/json/SearchBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/json/example-json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/json/read.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/json/write.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/xml/AddBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/xml/DeleteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/xml/ReadXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/xml/SearchBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/xml/WriteXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/xml/example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR9/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LaboratoryTasks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LR9/Exercises/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LR9/Exercises/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LR9/Exercises/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LR9/LR9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LR9/out/production/LR9/LR9/LR9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/out/production/LaboratoryTasks/LaboratoryTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LaboratoryTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LaboratoryTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR1/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR1/Ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR2/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR2/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR2/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR2/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR2/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR2/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR2/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR2/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR2/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR2/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR3/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR3/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR4/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR4/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR5/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR5/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR5/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR5/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR5/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR5/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR5/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR5/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR5/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR5/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR5/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR5/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR6/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR6/Ex9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex1/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex1/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex2/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex2/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex2/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex3/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex3/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex3/Tomato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex3/Tomato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex3/Vegetable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex3/Vegetable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex4/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex4/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex4/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex4/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex4/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex5/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex5/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex5/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Ex5/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Ex5/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Example/subClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Example/subClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR7/Example/superClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR7/Example/superClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Examples/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Examples/Example9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Exercises/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Exercises/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LR8/Exercises/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LR8/Exercises/Ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,22 +65,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\main\java\LR12" />
+      <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\main\java\LR11" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\excel" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\html" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\json" />
-      <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\xml" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LR4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.write">
-    <configuration name="AddBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LR10.xml.AddBook" />
+  <component name="RunManager" selected="Application.LR12.Ex3">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR11.Exercises.Ex1" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LR10.xml.*" />
+          <option name="PATTERN" value="LR11.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1877" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.Ex1877" />
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR11.Exercises.Ex3" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="LR11.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus.Ex2001" />
+    <configuration name="LR12.Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LR12.Ex3" />
       <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus.*" />
+          <option name="PATTERN" value="LR12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,9 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadExcel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LR10.excel.ReadExcel" />
-      <module name="LaboratoryTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LR10.excel.*" />
@@ -256,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LR12.Ex3" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.ReadExcel (1)" />
+        <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.write" />
-        <item itemvalue="Application.ReadExcel" />
-        <item itemvalue="Application.AddBook" />
-        <item itemvalue="Application.Ex2001" />
-        <item itemvalue="Application.Ex1877" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673881422154</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Create labProject">
+      <created>1684944738681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684944738681</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create labProject">
+      <created>1684944912101</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684944912101</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
