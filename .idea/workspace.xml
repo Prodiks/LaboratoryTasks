@@ -15,6 +15,12 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex8.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/LR12/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR13/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR13/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR13/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR13/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR13/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LR13/Ex6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LaboratoryTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LaboratoryTasks.iml" afterDir="false" />
     </list>
@@ -65,11 +71,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\main\java\LR13" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\main\java\LR12" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\main\java\LR11" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\excel" />
       <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\html" />
-      <recent name="C:\Users\user\Documents\projects\LaboratoryTasks\src\LR10\json" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LR4" />
